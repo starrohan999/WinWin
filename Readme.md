@@ -23,7 +23,7 @@ Decentralization, Trust and transparency, Accessibility, Low fees: Web3-based lo
 
 Overall, the benefits of web3-based lottery Dapps make them a promising option for creating fair, transparent, and accessible lottery systems. They offer a high level of security, trust, and transparency to users, while also providing a customizable and low-cost solution for developers.
 # Technology use
-Solidity->ethereum testnet->Metamask wallet->Shadeum Libert Testnet 1.0 , Shardeum Explorer.
+Solidity->ethereum testnet->Metamask wallet->Shardeum Libert Testnet 1.0 , Shardeum Explorer.
 # result
 ![elrond-network-egld](https://user-images.githubusercontent.com/71714344/222978350-084093e5-af43-45e1-b307-906e5f5cb572.gif)
 ![2023-03-05 (4)](https://user-images.githubusercontent.com/71714344/222978355-ab3d0628-aba2-4c91-a1df-7001e1b914c5.png)

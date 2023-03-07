@@ -41,7 +41,7 @@ Overall, the benefits of web3-based lottery Dapps make them a promising option f
 
  
 
-# contract Deployment
+# contract Deployment(Shardeum Explorer)(using Shardeum Liberty Network 1.0){SHM}
 # Trusty
 https://explorer-liberty10.shardeum.org/tx/0x0d327b785de269d44d8db022f49cbeed3d0b769ca05ba126a0d649fe16091582
 
